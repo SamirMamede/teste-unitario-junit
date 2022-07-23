@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "exemplo-calculadora-java",
+        "retangulo/src/main/java/com/testesunitarios"
+    ]
+}
